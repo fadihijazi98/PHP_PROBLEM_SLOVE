@@ -1,5 +1,6 @@
 #WE SUPPOSE YOU HAVE PHP 7.4 VERSION 
  - in my case I'm using **laragon** apache
+
 #TRY IN YOUR CONSOLE NOW
   - to run any script in console use:
   - `php .\***`
